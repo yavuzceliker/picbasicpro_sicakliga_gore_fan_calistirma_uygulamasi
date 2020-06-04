@@ -1,0 +1,2 @@
+# picbasicpro_sicakliga_gore_fan_calistirma_uygulamasi
+ PicBasicPro üzerinde hazırlanan ortam ısısına göre fan çalıştırma uygulaması
